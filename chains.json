@@ -63433,5 +63433,38 @@
             "color_chain_text": "0xFFFFFF",
             "ic_home_logo": "https://asset.movachain.com/logo/Mova-TP-Icon-01.png"
         }
+    },
+    {
+        "name": "Nexus Chain",
+        "chainId": 8910,
+        "shortName": "Nexus",
+        "chain": "Nexus",
+        "network": "mainnet",
+        "networkId": 8910,
+        "nativeCurrency": {
+            "name": "NXR",
+            "symbol": "NXR",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://node.nexuschain.cc"
+        ],
+        "faucets": [],
+        "explorers": [
+            {
+                "name": "Nexus explorer",
+                "url": "https://explorer.nexuschain.cc",
+                "standard": "EIP3091"
+            }
+        ],
+        "infoURL": "https://www.nexuschain.cc",
+        "app_resource": {
+            "ic_chain_select": "http://icon.nexuschain.cc/day-m.png",
+            "ic_chain_unselect": "http://icon.nexuschain.cc/day.png",
+            "color_chain_bg": "#646464",
+            "color_chain_text": "#66FFFF ",
+            "ic_chain_unselect_dark": "http://icon.nexuschain.cc/night.png",
+            "ic_home_logo": "http://icon.nexuschain.cc/night-m.png"
+        }
     }
 ]
