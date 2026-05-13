@@ -63501,6 +63501,39 @@
         "color_chain_text": "0x000000",
         "ic_home_logo": "https://photos.pinksale.finance/file/pinksale-logo-upload/1768216345304-4f17a2cc73fa22989e27cd2b22ec94bd.jpg"
     }
+},
+    {
+  "name": "AOU Chain",
+  "chainId": 2236,
+  "shortName": "aou",
+  "chain": "AOU",
+  "network": "testnet",
+  "networkId": 2236,
+  "nativeCurrency": {
+    "name": "AOU",
+    "symbol": "AOU",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.aouscan.com"
+  ],
+  "faucets": [],
+  "infoURL": "https://www.aoulink.io",
+  "explorers": [
+    {
+      "name": "AOU Scan Testnet",
+      "url": "https://testnet.aouscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "app_resource": {
+    "ic_chain_select": "https://www.aoulink.io/aou.png",
+    "ic_chain_unselect": "https://www.aoulink.io/aou.png",
+    "ic_chain_unselect_dark": "https://www.aoulink.io/aou.png",
+    "color_chain_bg": "0x000000",
+    "color_chain_text": "0xFFFFFF",
+    "ic_home_logo": "https://www.aoulink.io/aou.png"
+  }
 }
 
 ]
